@@ -1,0 +1,34 @@
+// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+// Use the theme_variables instead
+//@import "agency/variables.scss";
+// Use the theme_variables instead
+//@import "new-age/variables.scss";
+
+// Core variables and mixins
+@import "new-age/mixins.scss";
+// Font Mixins
+@import "theme_mixins.scss";
+// Global CSS
+@import "theme_global.scss";
+// Components
+@import "scroll-to-top.scss";
+//@import "agency/navbar.scss";
+@import "new-age/navbar.scss";
+@import "theme_navbar.scss";
+//@import "agency/masthead.scss";
+
+// New Agency
+@import "agency/services.scss";
+@import "agency/portfolio.scss";
+@import "agency/timeline.scss";
+@import "agency/team.scss";
+@import "agency/contact.scss";
+@import "agency/footer.scss";
+@import "new-age/masthead.scss";
+@import "new-age/download.scss";
+@import "new-age/features.scss";
+@import "new-age/cta.scss";
+@import "new-age/contact.scss";
+@import "new-age/footer.scss";
+//@import "new-age/bootstrap-overrides.scss";
+@import "theme_overrides.scss";
