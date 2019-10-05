@@ -13,7 +13,7 @@
 }
 
 .btn-outline {
-    color: white;
+    color: white !important;
     border: 1px solid;
     border-color: white;
     &:hover,
@@ -29,11 +29,12 @@
 
 .btn {
     border-radius: 300px;
+    color: $gray-base;
     @include alt-font;
 }
 
 .btn-xl {
-    font-size: 18px;
+    font-size: 14px;
     padding: 20px 40px;
 }
 
