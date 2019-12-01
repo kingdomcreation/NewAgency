@@ -186,7 +186,7 @@ img::-moz-selection {
   text-align: center;
   color: white;
   background: rgba(253, 204, 82, 0.5);
-  line-height: 60px;
+  line-height: 50px;
 }
 
 .scroll-to-top:focus, .scroll-to-top:hover {
